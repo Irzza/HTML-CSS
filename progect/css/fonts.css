@@ -1,0 +1,25 @@
+@font-face {
+    font-family: 'Helvetica Neue light';
+    src: url('../resources/fonts/helveticaneue_light.ttf')  format('truetype');
+    font-style: normal;
+    font-weight: normal;
+}
+
+
+
+@font-face {
+    font-family: 'Helvetica Neue Heavy';
+       src:
+         url('../resources/fonts/helveticaneue_heavy.otf')  format('opentype');
+    font-style: normal;
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: 'Helvetica Neue Bold';
+        src:
+         url('../resources/fonts/helveticaneue_bold.ttf')  format('truetype');
+    font-style: normal;
+    font-weight: normal;
+}
+
